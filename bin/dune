@@ -1,0 +1,4 @@
+(executable
+ (public_name ocaml-http-router)
+ (name main)
+ (libraries lwt ocaml-http-router))

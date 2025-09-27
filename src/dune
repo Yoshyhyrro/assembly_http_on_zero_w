@@ -1,0 +1,4 @@
+(library
+ (public_name ocaml-http-router)
+ (name ocaml_http_router)
+ (libraries lwt angstrom lwt.unix))
