@@ -222,9 +222,10 @@ let filtered = filter_requests 1.0 2 requests in
 
 ## 📝 License
 
-MIT License - see [LICENSE](LICENSE) file for details
+MIT License - see [LICENSE](https://github.com/Yoshyhyrro/assembly_http_on_zero_w/blob/main/LICENSE) file for details
 
 
 ---
 
 **Built with ❤️ for ARM architecture and embedded systems**
+
